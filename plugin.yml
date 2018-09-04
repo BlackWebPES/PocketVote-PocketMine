@@ -5,8 +5,8 @@ api: [3.0.0]
 author: ProjectInfinity
 permissions:
   pocketvote.admin:
-    description: "Allows player to manage PocketVote"
+    description: ""
     default: op
   pocketvote.vote:
-    description: "Allows a player to use the /vote command"
+    description: ""
     default: true
